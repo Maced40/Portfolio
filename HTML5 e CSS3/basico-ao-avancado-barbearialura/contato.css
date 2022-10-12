@@ -1,0 +1,10 @@
+@media screen and (max-width: 480px) {
+    .caixa, .contato-meio, .contato-meio, .enviar {
+        width: auto;
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+}
